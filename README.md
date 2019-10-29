@@ -22,7 +22,7 @@ Ushahidi 3
 
 ## What is Ushahidi?
 
-Ushahidi is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+Ushahidi is an open source web application for information collection, visualization and interactive mapping. It helps you gather info from: SMS, Twitter, RSS feeds, Email. Then you can process that information, categorize it, geo-locate it and publish it on a map.
 
 ## A note for grassroots organizations
 If you are starting a deployment for a grassroots organization, you can apply for a free social-impact responder account [here](https://www.ushahidi.com/pricing/apply-for-free) after verifying that you meet the criteria.
